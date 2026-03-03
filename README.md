@@ -3,7 +3,7 @@
 Bu proje, Orta Doğu'daki krizlerin son bulduğu ve **Türkiye'nin adil liderliği** ile tüm dünyada barışın hakim olduğu bir geleceği modelleyen Python tabanlı bir strateji simülasyonudur.
 
 ## 🎯 Projenin Amacı (Mission)
-Bu simülasyon, "Yurtta Sulh, Cihanda Sulh" ilkesi ve Türk-İslam merhameti çerçevesinde:
+Bu simülasyon, "SON SÖZ: 'Adalet mülkün temelidir. İnsanı yaşat ki cihan yaşasın! Türk-İslam merhameti çerçevesinde'") ve Türk-İslam merhameti çerçevesinde:
 - Savaşların ve çocuk ölümlerinin durdurulmasını,
 - Kudüs ve dünya yönetiminde mutlak adaletin sağlanmasını,
 - Ekonomik krizlerin adil paylaşım modeliyle çözülmesini hedefler.
